@@ -1,3 +1,3 @@
 # Pizza_Restaurant_Analytics
 
-![I am a Junior Data Analyst](https://github.com/Naarestan/Naarestan/blob/main/Unknown)
+![Pizza Restaurant Locations in the US](https://github.com/Naarestan/Pizza_Restaurant_Analytics/blob/main/Unknown.png)
